@@ -1,12 +1,11 @@
 ---
-title: "Referensi"
+title: "Terms of Service"
 description: ""
 summary: ""
-date: 2024-10-16T18:53:58+07:00
-lastmod: 2024-10-16T18:53:58+07:00
-draft: true
-weight: 999
-toc: true
+date: 2024-10-16T19:27:42+07:00
+lastmod: 2024-10-16T19:27:42+07:00
+draft: false
+type: "legal"
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

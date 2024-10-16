@@ -1,5 +1,5 @@
 ---
-title: "Guides"
+title: "Panduan"
 description: ""
 summary: ""
 date: 2024-10-16T18:52:13+07:00

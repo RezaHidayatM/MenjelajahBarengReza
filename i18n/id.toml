@@ -1,54 +1,54 @@
 [404_text]
-other = "The page you are looking for doesn't exist or has been moved."
+other = "Halaman yang kamu cari tidak ada atau telah dipindahkan."
 
 [404_title]
-other = "Page not found :("
+other = "Halaman tidak ditemukan :("
 
 [browse]
-other = "Browse"
+other = "Cari"
 
 [chapter_next]
-other = "Next"
+other = "Berikutnya"
 
 [chapter_previous]
-other = "Prev"
+other = "Sebelumnya"
 
 [edit_page]
-other = "Edit this page on"
+other = "Sunting laman ini di"
 
 [get_started]
-other = "Example Guide"
+other = "Mulai"
 
 [home]
-other = "Home"
+other = "Halaman utama"
 
 [last_updated]
-other = "Last updated on"
+other = "Terakhir di perbarui pada"
 
 [minute]
-one = "minute"
-other = "minutes"
+one = "menit"
+other = "menit"
 
 [on_this_page]
-other = "On this page"
+other = "Di halaman ini"
 
 [reading_time]
-other = "Estimated reading time"
+other = "Estimasi waktu baca"
 
 [search_loading]
-other = "Loading search index…"
+other = "Mengindeks pencarian"
 
 [search_no_recent]
-other = "No recent searches"
+other = "Tidak ada pencarian terbaru"
 
 [search_no_results]
-other = "No results"
+other = "Tidak ada hasil"
 
 [search_placeholder]
-other = "Search"
+other = "Cari disini!"
 
 [search_title]
-other = "Search"
+other = "Cari"
 
 [video_unsupported]
-other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"
+other = "Perambanmu tidak mendukung video yang disematkan, tapi jangan khawatir, kamu bisa <a href=\"{{ .RelPermalink }}\">mendownloadnya</a> dan menontonnya melalui video player favorit-mu!"

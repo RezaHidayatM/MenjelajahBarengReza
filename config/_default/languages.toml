@@ -4,10 +4,10 @@
   languageCode = 'id-ID'
   languageDirection = 'ltr'
   languageName = 'Indonesia'
-  title = 'Project Documentation'
+  title = 'WebBarengReza'
   weight = 10
   [id.params]
-    footer = 'Brought to you by <a class="text-muted" href="https://thulite.io/">Thulite</a>'
+    footer = 'Website ini diurus oleh <a class="text-muted" href="https://github.com/rezahidayatm">Reza Hidayat M</a>'
 
 [en]
   contentDir = "content/en"
