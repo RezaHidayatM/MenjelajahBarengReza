@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "Menjelajah Bareng Reza"
+baseurl = "http://barengreza.xyz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -17,7 +17,7 @@ defaultContentLanguage = "id"
 disableLanguages = ["en", "de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = "Copyright (c) 2023-2024 WebBarengReza"
 
 [build.buildStats]
   enable = true
@@ -84,3 +84,7 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
   hint = "photo"
   quality = 85
   resampleFilter = "Lanczos"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-BRGN9F8K8B'
