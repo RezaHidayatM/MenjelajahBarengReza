@@ -45,17 +45,6 @@
   target = "content"
   lang = "en"
 
-[[mounts]]
-  source = "content/de"
-  target = "content"
-  lang = "de"
-
-[[mounts]]
-  source = "content/nl"
-  target = "content"
-  lang = "nl"
-
-
 ## data
 [[mounts]]
   source = "node_modules/@thulite/doks-core/data"

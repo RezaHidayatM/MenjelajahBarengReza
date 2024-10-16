@@ -14,7 +14,7 @@ summarylength = 20 # 70 (default)
 
 # Multilingual
 defaultContentLanguage = "id"
-disableLanguages = ["en", "de", "nl"]
+disableLanguages = ["en"]
 defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2023-2024 WebBarengReza"

@@ -19,25 +19,3 @@
   weight = 15
   [en.params]
     footer = 'Brought to you by <a class="text-muted" href="https://thulite.io/">Thulite</a>'
-
-[de]
-  contentDir = "content/de"
-  disabled = false
-  languageCode = 'de-DE'
-  languageDirection = 'ltr'
-  languageName = 'Deutsch'
-  title = 'Projekt Dokumentation'
-  weight = 20
-  [de.params]
-    footer = 'Präsentiert von <a class="text-muted" href="https://thulite.io/">Thulite</a>'
-
-[nl]
-  contentDir = "content/nl"
-  disabled = false
-  languageCode = 'nl-NL'
-  languageDirection = 'ltr'
-  languageName = 'Nederlands'
-  title = 'Projekt documentatie'
-  weight = 30
-  [nl.params]
-    footer = 'Aangeboden door <a class="text-muted" href="https://thulite.io/">Thulite</a>'
