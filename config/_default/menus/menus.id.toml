@@ -19,20 +19,18 @@
 [[guide]]
   name = "Panduan"
   weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
-
-[[tutorial]]
-  name = "Tutorial"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
+  url = "/guide/"
 
 [[main]]
+  name = "Tutorial"
+  weight = 11
+  url = "/tutorial/"
+
+[[docs]]
   name = "Dokumentasi"
   url = "/docs/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
+#   url = "/docs/1.0/prologue/introduction/"
+  weight = 12
 
 [[main]]
   name = "Blog"
