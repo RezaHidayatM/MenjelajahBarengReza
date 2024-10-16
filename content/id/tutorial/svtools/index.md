@@ -8,8 +8,8 @@ draft: false
 weight: 999
 toc: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
+  title: "Kumpulan Link Tools untuk Stardew Valley" # custom title (optional)
+  description: "Berisi kumpulan link tools untuk mempermudah perjalanan Stardew Valley kalian" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
