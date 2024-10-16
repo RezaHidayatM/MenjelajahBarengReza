@@ -10,13 +10,14 @@ categories: ["Games"]
 tags: ["Games", "Trivia", "Unik"]
 contributors: ["Reza Hidayat M"]
 pinned: false
-homepage: false
+homepage: true
 seo:
   title: "Trivia Unik Stardew Valley" # custom title (optional)
   description: "Berisi beberapa trivia unik di game Stardew Valley." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+<p>Penampakan Stardew Valley di 2013</p>
 
 ## [Haley](https://stardewvalleywiki.com/Haley)
 Setelah kalian berfoto bareng Haley di event 8 hati, kalau kalian mengklik/memencet potrait Haley di sosial menu maka Ia akan berpose.
@@ -48,9 +49,3 @@ kalau kalian memenuhi beberapa kriteria maka akan ada [objek-objek rahasia](http
 
 ## [Marlon](https://stardewvalleywiki.com/Marlon)
 Ketika mengobrol dengan Marlon di event flower dance, kayanya Marlon ini suka dengan marnie.
-
-{{< figure
-  src="img/seasonsGreetings.png"
-  alt="Penampakan Stardew Valley di tahun 2013"
-  caption="Penampakan Stardew Valley di tahun 2013"
->}}
