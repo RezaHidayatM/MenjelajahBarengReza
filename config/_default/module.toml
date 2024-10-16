@@ -31,8 +31,24 @@
 
 ## content
 [[mounts]]
-  source = "content"
+  source = "content/id"
   target = "content"
+  lang = "id"
+
+[[mounts]]
+  source = "content/en"
+  target = "content"
+  lang = "en"
+
+[[mounts]]
+  source = "content/de"
+  target = "content"
+  lang = "de"
+
+[[mounts]]
+  source = "content/nl"
+  target = "content"
+  lang = "nl"
 
 ## data
 [[mounts]]

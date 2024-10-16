@@ -1,32 +1,43 @@
-[en]
-  languageName = "English"
-  contentDir = "content/en"
+[id]
+  contentDir = "content/id"
+  disabled = false
+  languageCode = 'id-ID'
+  languageDirection = 'ltr'
+  languageName = 'Indonesia'
+  title = 'Projek Dokumentasi'
   weight = 10
+  [id.params]
+    footer = 'Dipersembahkan oleh <a class="text-muted" href="https://thulite.io/">Thulite</a>'
+
+[en]
+  contentDir = "content/en"
+  disabled = true
+  languageCode = 'en-US'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  title = 'Project Documentation'
+  weight = 20
   [en.params]
-    languageISO = "EN"
-    languageTag = "en-US"
     footer = 'Brought to you by <a class="text-muted" href="https://thulite.io/">Thulite</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
 
 [de]
-  languageName = "German"
   contentDir = "content/de"
-  weight = 15
+  disabled = true
+  languageCode = 'de-DE'
+  languageDirection = 'ltr'
+  languageName = 'Deutsch'
+  title = 'Projekt Dokumentation'
+  weight = 30
   [de.params]
-    languageISO = "DE"
-    languageTag = "de-DE"
-    footer = 'Gebaut mit <a class="text-muted" href="https://thulite.io/">Thulite</a>'
-    alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.5/">Doks v0.5</a>'
+    footer = 'Präsentiert von <a class="text-muted" href="https://thulite.io/">Thulite</a>'
 
 [nl]
-  languageName = "Nederlands"
   contentDir = "content/nl"
-  weight = 20
+  disabled = true
+  languageCode = 'nl-NL'
+  languageDirection = 'ltr'
+  languageName = 'Nederlands'
+  title = 'Projekt documentatie'
+  weight = 40
   [nl.params]
-    languageISO = "NL"
-    languageTag = "nl-NL"
-    titleAddition = "Modern documentatie-thema"
-    description = "Doks is een Hugo-thema waarmee je moderne documentatie-websites kunt bouwen die veilig, snel en klaar voor SEO zijn — standaard."
-    titleHome = "Doks thema"
-    footer = 'Mogelijk gemaakt door <a href="https://www.netlify.com/">Netlify</a>, <a href="https://gohugo.io/">Hugo</a>, en <a href="https://getdoks.org/">Doks</a>'
-    alertText = 'Introductie van het Doks-kinderthema, verschillende DX + UX-updates en meer! <a class="alert-link stretched-link" href="https://getdoks.org/blog/doks-v0.2/">Bekijk Doks v0.2</a>'
+    footer = 'Aangeboden door <a class="text-muted" href="https://thulite.io/">Thulite</a>'
