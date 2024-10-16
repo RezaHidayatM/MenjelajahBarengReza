@@ -49,5 +49,8 @@ kalau kalian memenuhi beberapa kriteria maka akan ada [objek-objek rahasia](http
 ## [Marlon](https://stardewvalleywiki.com/Marlon)
 Ketika mengobrol dengan Marlon di event flower dance, kayanya Marlon ini suka dengan marnie.
 
-**Bonus**: Penampakan Stardew Valley di tahun 2013.
-![Seasonal Greeting 2013](img/seasonsGreetings.png)
+{{< figure
+  src="img/seasonsGreetings.png"
+  alt="Penampakan Stardew Valley di tahun 2013"
+  caption="Penampakan Stardew Valley di tahun 2013"
+>}}
