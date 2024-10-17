@@ -7,10 +7,10 @@ lastmod: 2024-10-16T20:14:17+07:00
 draft: false
 weight: 50
 categories: ["Games"]
-tags: ["Games", "Trivia", "Unik"]
+tags: ["Trivia", "Games"]
 contributors: ["Reza Hidayat M"]
 pinned: false
-homepage: true
+homepage: false
 seo:
   title: "Trivia Unik Stardew Valley" # custom title (optional)
   description: "Berisi beberapa trivia unik di game Stardew Valley." # custom description (recommended)
