@@ -7,8 +7,8 @@ lastmod: 2024-10-16T22:07:59+07:00
 draft: false
 weight: 50
 categories: ["Anime"]
-tags: ["Anime", "Sinopsis"]
-contributors: [Amelia Zahara]
+tags: ["Sinopsis", "Anime"]
+contributors: ["Amelia Zahara"]
 pinned: false
 homepage: false
 seo:
