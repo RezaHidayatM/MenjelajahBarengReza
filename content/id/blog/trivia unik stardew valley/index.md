@@ -17,8 +17,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-<p>Penampakan Stardew Valley di 2013</p>
-
 ## [Haley](https://stardewvalleywiki.com/Haley)
 Setelah kalian berfoto bareng Haley di event 8 hati, kalau kalian mengklik/memencet potrait Haley di sosial menu maka Ia akan berpose.
 
