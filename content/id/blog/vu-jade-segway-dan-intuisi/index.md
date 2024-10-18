@@ -6,8 +6,8 @@ date: 2024-10-17T12:36:48+07:00
 lastmod: 2024-10-17T12:36:48+07:00
 draft: false
 weight: 50
-categories: ["Buku"]
-tags: ["Opini", "Buku"]
+categories: ["Books"]
+tags: ["Opini", "Books"]
 contributors: ["Amelia Zahara"]
 pinned: false
 homepage: false
@@ -35,7 +35,7 @@ Banyak orang gagal menciptakan orisinalitas karena mereka menghasilkan sedikit i
 
 Keyakinan pada ide sendiri itu berbahaya, bukan saja karena membuat rentan terhadap ide positif salah, tetapi juga membuat berhenti menghasilkan variasi yang dibutuhkan untuk meraih potensi kreatif.
 
-{{< callout context="tip" title="" icon="outline/rocket" >}}
+{{< callout context="note" title="" icon="outline/info-circle" >}}
 Saat mendapatkan di suatu bidang, kita terpenjara oleh prototype kita sendiri.
 {{< /callout >}}
 
@@ -43,4 +43,6 @@ Intuisi dapat mengalahkan analisis karena pikiran tak sadar lebih ahli dalam men
 
 Intuisi hanya akurat di bidang yang kita memiliki pengalaman atasnya. Intuisi hanya dapat dipercaya saat seseorang berpengalaman membuat penilaian di lingkungan yang terprediksi olehnya. Intuisi dapat bekerja dengan cepat berdasarkan emosi yang sedang hangat, sementara nalar adalah proses yang lebih lambat dan dingin. Sekalipun yakin untuk melibatkan intuisi dalam pengambilan keputusan, libatkan juga nalar atasnya.
 
-> dari buku ORIGINALS karya Adam Grant
+{{< details "Referensi" open >}}
+dari buku ORIGINALS karya Adam Grant
+{{< /details >}}

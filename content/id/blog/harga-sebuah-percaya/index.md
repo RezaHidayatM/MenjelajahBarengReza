@@ -26,8 +26,6 @@ Laksaman Ramirez tersenyum datar,“Semua dongeng di dunia ini nyata, teman. Sen
 
 “Masalahnya semakin lama orang-orang semakin disibukkan oleh akal sehat dan rasio. Dikalahkan oleh rutinitas dan ketakutan akan hidup itu sendiri. Dibutakan oleh batasan-batasan sesuatu yang masuk akal dan tidak masuk akal. Maka hilanglah kepercayaan atas dongeng-dongeng itu.”
 
-***
-
 Sang penandai tersenyum.
 
 “Tahukah kau, anak-ku. Setiap kali seorang anak terpilih untuk menjalani kisah-kisah ini, maka seluruh semesta menggabungkan diri berharap dan membantunya. Setiap kali seorang anak manusia memutuskan untuk mewujudkan mimpinya, seluruh semesta alam sepakat menunjukkan jalan-jalannya.”
@@ -40,7 +38,9 @@ Jim menyeringai kalah. Tidak ada jalan-jalan tersebut. Tidak ada lagi. Aku sudah
 
 “Aku yang sekarang tergantung antara hidup dan mati. Yang di penghujung kematian masih saja tak kuasa mengenang semua masa lalu itu dengan bibir menyungging senyum. Yang di penghujung kematian masih hidup dalam penyesalan. Apa ini disebut dengan ujung yang baik? Mengapa aku tak mengiris nadi-ku saja dengan pisau apel kala itu? Mengapa tidak dari dulu!”
 
+{{< callout context="note" title="" icon="outline/ear-scan" >}}
 Jim berteriak parau dengan sisa kesadarannya. Kalimat tanpa suara, tanpa ekspresi wajah karena tubuhnya sudah kebas. Teriakan dalam hati. Yang terdengan lebih memilukan.
+{{< /callout >}}
 
 Sang penandai terdiam. Air dari langit-langit gua menetes berirama, mengisi keheningan malam di ruangan yang basah, lembab dan menjijikkan tersebut.
 
@@ -78,7 +78,9 @@ Sang penandai menarik napas dalam.
 
 Jim tertunduk, menangis. Sang penandai benar, dirinya tidak pernah mau berdamai dengan kenangan-kenangan itu. Ia selalu menolak keras-keras setiap kali hatinya berusaha mengenag semuanya. Setiap kali ia berusaha melupakannya, jutsru hatinya semakin keras melawan. Ia selalu menyesali segala keputusan yang pernah dibuatnya. Ia selalu menyumpahi dirinya tak berguna.
 
+{{< callout context="note" title="" icon="outline/ear-scan" >}}
 Tangisan tanpa suara Jim mengeras. Sang penandai lembut menyentuh bahu-nya, menenangkan. Hujan di luar semakin deras. Badai melanda belantara hutan tersebut.
+{{< /callout >}}
 
 “Ada satu rahasia kecil yang akan aku ungkapkan sekarang. Kau tahu, Jim, kau bisa saja menghentikan dongeng ini saat di lereng Puncak Adam itu, kau bisa memanggil-ku dan menyelesaikan semuanya. Dan kau akan menerima hadiah atas separuh perjalanan. Gadis pemetik dawai itu.”
 
@@ -99,4 +101,6 @@ Jim tergugu, tubuh tergelangtung itu bergetar.
 
 Jim dan Pate terdiam.
 
-> Diambil dari buku berjudul 'Harga Sebuah Percaya' karangan Tere Liye, dikutip pada hlm. 258-260 dan hlm. 278-284
+{{< details "Referensi" open >}}
+Diambil dari buku berjudul 'Harga Sebuah Percaya' karangan Tere Liye, dikutip pada hlm. 258-260 dan hlm. 278-284
+{{< /details >}}

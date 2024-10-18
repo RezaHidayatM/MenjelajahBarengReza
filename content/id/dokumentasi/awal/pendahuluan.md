@@ -15,7 +15,7 @@ seo:
 ---
 Halaman ini adalah halaman pembuka dari dokumentasi. Di halaman ini kamu akan menemukan beberapa panduan dan tutorial yang mungkin akan membantumu.
 
-{{< callout context="note" title="" icon="outline/info-circle" >}}
+{{< callout context="tip" title="" icon="outline/info-circle" >}}
 Silahkan pilih konten yang kamu inginkan dibawah ini!
 {{< /callout >}}
 

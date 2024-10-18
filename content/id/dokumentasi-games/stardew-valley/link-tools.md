@@ -15,9 +15,13 @@ seo:
 ---
 Halo semua. Di sini gw akan membagikan beberapa link yang mungkin akan berguna buat perjalanan Stardew Valley kalian.
 ## Smapi
-Aplikasi ini merupakan syarat apabila kalian mau menggunakan mod di Stardew Valley.[^1]
+Aplikasi ini merupakan syarat apabila kalian mau menggunakan mod di Stardew Valley.
 - Smapi untuk PC ([smapi.io](https://smapi.io/) ***atau***  [Nexus](https://www.nexusmods.com/stardewvalley/mods/2400))
 - [Smapi untuk Android](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)
+
+{{< callout context="caution" title="Jangan Khawatir!" icon="outline/rocket" >}}
+Link di halaman ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) dan Official Discord Stardew Valley.
+{{< /callout >}}
 
 ## Planner
 Di Website ini kalian bisa merencanakan desain untuk farm Stardew Valley kalian.
@@ -37,5 +41,3 @@ Website ini akan memberitahu kalian prediksi kejadian di dalam game, seperti kap
 
 Aplikasi ini akan membantu kalian untuk memprediksi tangga di Mine, mencari [Clay](https://stardewvalleywiki.com/Clay), dan banyak lagi.
 - [Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614) (PC Only)
-
-[^1]: Link ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) di Stardew Valley wiki.
