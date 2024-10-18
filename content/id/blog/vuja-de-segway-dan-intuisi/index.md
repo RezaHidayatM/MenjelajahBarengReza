@@ -7,8 +7,8 @@ date: 2024-10-17T12:36:48+07:00
 lastmod: 2024-10-17T12:36:48+07:00
 draft: false
 weight: 50
-categories: ["Books"]
-tags: ["Opini", "Books"]
+categories: ["Buku"]
+tags: ["Opini", "Buku"]
 contributors: ["Amelia Zahara"]
 pinned: false
 homepage: false
