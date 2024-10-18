@@ -52,3 +52,9 @@ other = "Cari"
 
 [video_unsupported]
 other = "Perambanmu tidak mendukung video yang disematkan, tapi jangan khawatir, kamu bisa <a href=\"{{ .RelPermalink }}\">mendownloadnya</a> dan menontonnya melalui video player favorit-mu!"
+
+[in]
+other = "di"
+
+[by]
+other = "oleh"
