@@ -1,20 +1,19 @@
 ---
-title: "Kumpulan Link Tools untuk Stardew Valley"
-description: ""
+title: "Kumpulan Link Tools"
+description: "Berisi Kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian."
 summary: ""
-date: 2024-10-16T18:52:13+07:00
-lastmod: 2024-10-16T18:52:13+07:00
+date: 2024-10-18T17:12:43+07:00
+lastmod: 2024-10-18T17:12:43+07:00
 draft: false
-weight: 999
+weight: 2
 toc: true
 seo:
-  title: "Kumpulan Link Tools untuk Stardew Valley" # custom title (optional)
-  description: "Berisi kumpulan link tools untuk mempermudah perjalanan Stardew Valley kalian" # custom description (recommended)
+  title: "Kumpulan Link Tools Stardew Valley" # custom title (optional)
+  description: "Berisi Kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
 Halo semua. Di sini gw akan membagikan beberapa link yang mungkin akan berguna buat perjalanan Stardew Valley kalian.
-
 ## Smapi
 Aplikasi ini merupakan syarat apabila kalian mau menggunakan mod di Stardew Valley.[^1]
 - Smapi untuk PC ([smapi.io](https://smapi.io/) ***atau***  [Nexus](https://www.nexusmods.com/stardewvalley/mods/2400))
@@ -39,5 +38,4 @@ Website ini akan memberitahu kalian prediksi kejadian di dalam game, seperti kap
 Aplikasi ini akan membantu kalian untuk memprediksi tangga di Mine, mencari [Clay](https://stardewvalleywiki.com/Clay), dan banyak lagi.
 - [Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614) (PC Only)
 
-### Catatan kaki
-[^1]: Link ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) di Stardew Valley Wiki, jadi gw pastikan 100% aman
+[^1]: Link ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) di Stardew Valley wiki.

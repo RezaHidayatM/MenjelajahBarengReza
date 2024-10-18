@@ -44,7 +44,7 @@ mainSections = ["blog"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["dokumentasi", "dokumentasi-games"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false

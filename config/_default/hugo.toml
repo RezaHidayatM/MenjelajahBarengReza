@@ -1,5 +1,5 @@
 title = "Menjelajah Bareng Reza"
-baseurl = "http://barengreza.xyz/"
+baseurl = "https://barengreza.xyz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -58,8 +58,9 @@ copyRight = "Copyright (c) 2023-2024 WebBarengReza"
 
 [permalinks]
   blog = "/blog/:slug/"
-  docs = "/docs/:sections[1:]/:slug/"
-# docs = "/docs/1.0/:sections[1:]/:slug/"
+  docs = "/dokumentasi/:sections[1:]/:slug/"
+#   docs = "/docs/1.0/:sections[1:]/:slug/"
+#   docs = "/docs/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
