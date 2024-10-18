@@ -1,6 +1,7 @@
 ---
 title: "Harga Sebuah Percaya"
-description: "Sinopsis Novel Harga Sebuah percaya oleh Tere Liye"
+url: "/blog/harga-sebuah-percaya/"
+description: "Sinopsis novel Harga Sebuah percaya oleh Tere Liye."
 summary: "“Lihatlah, Jim, Pate!” Laksamana Ramirez maju mendekati salah satu pohon pisang, mengangkat pedangnya, menebasnya."
 date: 2024-10-16T22:08:33+07:00
 lastmod: 2024-10-16T22:08:33+07:00
@@ -12,8 +13,8 @@ contributors: ["Amelia Zahara"]
 pinned: false
 homepage: false
 seo:
-  title: "Sinopsis Harga Sebuah Percaya" # custom title (optional)
-  description: "Sinopsis Novel Harga Sebuah percaya oleh Tere Liye" # custom description (recommended)
+  title: "Harga Sebuah Percaya." # custom title (optional)
+  description: "Sinopsis novel Harga Sebuah percaya oleh Tere Liye." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---

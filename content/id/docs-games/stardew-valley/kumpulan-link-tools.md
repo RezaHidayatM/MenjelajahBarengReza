@@ -1,6 +1,6 @@
 ---
 title: "Kumpulan Link Tools"
-description: "Berisi Kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian."
+description: "Berisi kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian."
 summary: ""
 date: 2024-10-18T17:12:43+07:00
 lastmod: 2024-10-18T17:12:43+07:00
@@ -9,7 +9,7 @@ weight: 2
 toc: true
 seo:
   title: "Kumpulan Link Tools Stardew Valley" # custom title (optional)
-  description: "Berisi Kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian." # custom description (recommended)
+  description: "Berisi kumpulan-kumpulan link tools yang akan memudahkan perjalanan Stardew Valley kalian." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
@@ -20,7 +20,7 @@ Aplikasi ini merupakan syarat apabila kalian mau menggunakan mod di Stardew Vall
 - [Smapi untuk Android](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)
 
 {{< callout context="caution" title="Jangan Khawatir!" icon="outline/rocket" >}}
-Link di halaman ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) dan Official Discord Stardew Valley.
+Link di halaman ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) dan [Official Discord](https://discord.gg/stardewvalley) Stardew Valley.
 {{< /callout >}}
 
 ## Planner

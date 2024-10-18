@@ -1,5 +1,6 @@
 ---
 title: "Trivia Unik Stardew Valley"
+url: "/blog/trivia-unik-stardew-valley/"
 description: "Berisi beberapa trivia unik di game Stardew Valley."
 summary: "Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat oleh seorang developer antusias ConcernedApe. Karena aku gabut jadi aku mau share ke kalian beberapa Trivia unik menurutku di game Stardew Valley."
 date: 2024-10-16T20:14:17+07:00

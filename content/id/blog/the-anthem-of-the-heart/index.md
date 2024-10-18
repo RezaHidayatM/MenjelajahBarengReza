@@ -1,6 +1,7 @@
 ---
 title: "The Anthem of The Heart (Kokoro ga Sakebitagatterunda)"
-description: "Sinopsis Anime The Anthem of The Heart"
+url: "/blog/the-anthem-of-the-heart/"
+description: "Sinopsis anime The Anthem of The Heart."
 summary: "Kali ini dengan effort anak muda yang menggelora, punya banyak waktu sekali untuk menyelesaikan tantangan, bukan tantangan sih tepatnya sebuah permintaan (request) dari seseorang pecinta anime sebut saja dia, Si Cung. Beberapa hari lalu si Cung sedikit memaksa untuk menonton anime dengan judul yang telah disebutkan, juga dengan link download yang telah dia berikan. Oke baik, jiwa muda ini mnggelora tantangan diterima."
 date: 2024-10-16T22:07:59+07:00
 lastmod: 2024-10-16T22:07:59+07:00
@@ -12,8 +13,8 @@ contributors: ["Amelia Zahara"]
 pinned: false
 homepage: false
 seo:
-  title: "Sinopsis The Anthem of The Heart (Kokoro ga Sakebitagatterunda)" # custom title (optional)
-  description: "Sinopsis Anime The Anthem of The Heart" # custom description (recommended)
+  title: "The Anthem of The Heart (Kokoro ga Sakebitagatterunda)" # custom title (optional)
+  description: "Sinopsis anime The Anthem of The Heart." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---

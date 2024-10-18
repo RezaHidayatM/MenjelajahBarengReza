@@ -1,14 +1,12 @@
 ---
-title: "Layout"
+title: "Prologue"
 description: ""
 summary: ""
-date: 2024-10-18T17:58:45+07:00
-lastmod: 2024-10-18T17:58:45+07:00
-draft: true
+date: 2024-10-18T22:25:28+07:00
+lastmod: 2024-10-18T22:25:28+07:00
+draft: false
 weight: 999
 toc: true
-sidebar:
-  colapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

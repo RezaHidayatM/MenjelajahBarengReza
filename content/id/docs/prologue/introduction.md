@@ -1,6 +1,6 @@
 ---
 title: "Selamat Datang!"
-description: "Halaman pembuka dari dokumentasi"
+description: "Halaman pembuka dari dokumentasi."
 summary: ""
 date: 2024-10-17T19:26:27+07:00
 lastmod: 2024-10-17T19:26:27+07:00
@@ -9,7 +9,7 @@ weight: 2
 toc: true
 seo:
   title: "Selamat Datang!" # custom title (optional)
-  description: "Halaman pembuka dari dokumentasi" # custom description (recommended)
+  description: "Halaman pembuka dari dokumentasi." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
@@ -23,5 +23,5 @@ Silahkan pilih konten yang kamu inginkan dibawah ini!
 
 ## Games
 {{< details "**🐥 Stardew Valley**" open >}}
-- [Kumpulan link tools untuk Stardew Valley](/dokumentasi-games/stardew-valley/link-tools/)
+- [Kumpulan link tools untuk Stardew Valley](/docs-games/stardew-valley/kumpulan-link-tools/)
 {{< /details >}}

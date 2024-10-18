@@ -7,7 +7,7 @@ images = ["cover.png"]
 mainSections = ["blog"]
 
 [social]
-  twitter = "RezaHidayatM"
+  twitter = "reza_hidayatm"
 
 # Doks (@thulite/doks-core)
 [doks]
@@ -21,7 +21,7 @@ mainSections = ["blog"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
+  navBarButtonUrl = "/docs/prologue/selamat-datang/"
   navBarButtonText = "Get started"
 
   # FlexSearch
@@ -44,7 +44,7 @@ mainSections = ["blog"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["dokumentasi", "dokumentasi-games"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["docs-games"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
@@ -123,14 +123,14 @@ mainSections = ["blog"]
   [seo.favicons]
     sizes = []
     icon = "favicon.png" # favicon.png (default)
-    svgIcon = "favicon.svg" # favicon.svg (default)
-    maskIcon = "mask-icon.svg" # mask-icon.svg (default)
-    maskIconColor = "white" # white (default)
+#    svgIcon = "favicon.svg" # favicon.svg (default)
+#    maskIcon = "mask-icon.svg" # mask-icon.svg (default)
+#    maskIconColor = "white" # white (default)
   [seo.schemas]
     type = "Person" # Organization (default) or Person
-    logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
+    logo = "favicon.png" # Logo of Organization — favicon-512x512.png (default)
     name = "Reza Hidayat M" # Name of Organization or Person
-    sameAs = ["https://github.com/rezahidayatm/WebBarengReza"] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
+    sameAs = ["https://github.com/rezahidayatm/WebBarengReza", "https://x.com/reza_hidayatm", "https://www.instagram.com/rezahidayatm/", "https://steamcommunity.com/id/rezahidayatm/"] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections
     newsArticle = [] # NewsArticle sections
