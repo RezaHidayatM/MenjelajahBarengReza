@@ -14,4 +14,5 @@ seo:
   noindex: false # false (default) or true
 ---
 [{{< inline-svg src="outline/brand-steam" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}](https://steamcommunity.com/id/RezaHidayatM/)
+<a href="mailto:m.rezahidayat2001@gmail.com">{{< inline-svg src="outline/mail" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}</a>
 [{{< inline-svg src="outline/brand-github" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}](https://github.com/rezahidayatm)
